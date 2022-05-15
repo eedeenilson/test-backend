@@ -1,4 +1,3 @@
-const bcrypt = require('bcrypt');
 const sql = require('../db/db');
 // Event object constructor
 const Event = function Event(event) {
