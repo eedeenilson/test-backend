@@ -32,7 +32,7 @@ you will find all routes.
 6- Scaffolding
 
 ```bash
-helping-api
+api
     |_app
     |   |_controller
     |   |_db
