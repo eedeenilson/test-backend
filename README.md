@@ -7,9 +7,9 @@ API RESTFul for event test.
 1- Clone this repository
 ```bash
 [HTTP]
-https://github.com/eedeenilson/nodeJS.git
+https://github.com/eedeenilson/test-backend.git
 [SSH]
-git@github.com:eedeenilson/nodeJS.git
+git@github.com:eedeenilson/test-backend.git
 ```
 
 2- Install all packages
@@ -65,5 +65,5 @@ In the file
 `This api was created by Edenilson Arana`
 
 
-## Derechos de autor
+## Copyright
 Copyright © 2022
